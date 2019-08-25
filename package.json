@@ -26,6 +26,9 @@
     "email": "zeke@sikelianos.com",
     "url": "http://zeke.sikelianos.com/"
   },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "license": "MIT",
   "devDependencies": {
     "browserify": "^4.2.1",
